@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) CLDB 2.0.4.07; ANGEL Secure; Chrome/69.0.3497.100; Safari/537.36

@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tcs_app/1.1.0 Chrome/87.0.4280.67 TCS/1.1.0 Safari/537.36 Model(ThinkPad T490) Memory(16) CPU(Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz)

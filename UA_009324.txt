@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 10.0; WOW64; PROTECT 4.2.12.0) AppleWebKit/1668248114 (KHTML, like Gecko) QtWebEngine/5.13.0 Chrome/99.0.2623.111 Safari/1668248114Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36

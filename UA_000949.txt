@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.41 Chrome/56.0.2924.87 Discord PTB/1.6.15 Safari/537.36

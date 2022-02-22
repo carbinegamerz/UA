@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.34 BitrixDesktop/8.2.65.48 Safari/537.36

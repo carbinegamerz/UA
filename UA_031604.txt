@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) EpicGamesLauncher/12.1.1-15737351+++Portal+Release-Live UnrealEngine/4.23.0-15737351+++Portal+Release-Live Chrome/84.0.4147.38 Safari/537.36

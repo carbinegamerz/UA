@@ -1,0 +1,1 @@
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) tcs_app/2.1.0 Chrome/87.0.4280.141 TCS/2.1.0 TTTCS/2.1.0 Safari/537.36 Model(OptiPlex) Memory(8) CPU(Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz)
